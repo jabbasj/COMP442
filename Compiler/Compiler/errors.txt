@@ -1,0 +1,2 @@
+Invalid token: unexpected at line: 1 loc: 9. Last safe state: unexpected. Tokenizer stuck. Unexpected symbol.
+
